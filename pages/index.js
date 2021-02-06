@@ -56,7 +56,7 @@ export default function Home({ profile, portfolio, error}){
         <link rel="stylesheet" href="/css/index.css"/>
         <link rel="preconnect" href="https://fonts.gstatic.com"/>
         <link href="https://fonts.googleapis.com/css2?family=Sora:wght@800&family=Montserrat&family=Kanit&family=Lexend+Giga&family=DM+Serif+Display&family=Mukta+Malar:wght@800&family=Raleway:wght@100&display=swap" rel="stylesheet"/>
-        <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"/>
+        <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"/>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossOrigin="anonymous"></script>
       </Head>
       <div onClick={onShow} className="container-wrapper"><div className="body-img">
